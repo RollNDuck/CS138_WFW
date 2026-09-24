@@ -1925,7 +1925,7 @@ Applicable ONLY to Symmetric Positive Definite (SPD) matrices ($A^T = A$ and $x^
       
       [#h(2em) [W4] Eigenvalue Approximations: Gram-Schmidt, QR Factorization and Iteration], [#align(left)[*Contributor*]],
       
-      [*1.4. [W5] Least Squares Approximation, Rayleigh Quotient* \ #text(fill: luma(100), style: "italic")[1.3. Least Squares (optional)]], [#align(left)[]]
+      [*1.4. [W5] Least Squares Approximation, Rayleigh Quotient* \ #text(fill: luma(100), style: "italic")[1.3. Least Squares (optional)]], [#align(left)[*Chua \ Emnace \ Real*]]
     )
   ]
 ]
