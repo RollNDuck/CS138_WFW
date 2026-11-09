@@ -280,4 +280,4 @@
     approx mat(0.35511204;0.62824987). $
 ] 
 
-#bibliography("../../../resources/bibs/compendium/le2/finite_difference_compendium.bib", style: "apa")
+#bibliography("../../../resources/bibs/compendium/le2/nonlinearbvp.bib", style: "apa")
