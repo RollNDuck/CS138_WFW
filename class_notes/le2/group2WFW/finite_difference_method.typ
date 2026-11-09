@@ -385,7 +385,7 @@ with $(n-1)$ interior points and uniform spacing $h$, we can either:
       A_1, B_1, C_1, dots.down, 0;
       dots.v, dots.down, dots.down, dots.down, dots.v;
       0, dots.down, A_(n-1), B_(n-1), C_(n-1);
-      0, dots, 0, 2/h^2, -2/h^2 + Q(x_i)
+      0, dots, 0, 2/h^2, -2/h^2 + Q(x_n)
     ) mat(
       y_0; y_1; dots.v; y_(n-1); y_n
     ) = mat(
