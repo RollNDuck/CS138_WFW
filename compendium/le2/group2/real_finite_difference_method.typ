@@ -282,4 +282,4 @@ $
 I used ChatGPT to check my solution on the remix problem, as well as in making the bibliography for the solved problems. Here is the #link("https://chatgpt.com/share/6af19d73-1bcc-83ec-83ca-1ff6fbc1ec2f")[link] to the conversation.
 
 
-#bibliography("../../../resources/bibs/compendium/le2/finite_difference.bib", style: "apa")
+#bibliography("../../../resources/bibs/compendium/le2/finite_difference_compendium.bib", style: "apa")
